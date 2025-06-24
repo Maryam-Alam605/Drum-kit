@@ -19,7 +19,7 @@ Click the buttons or press your keyboard keys to play different drum sounds!
 ## 🎓 Learning Source
 
 This project was created while following the [Complete Web Development Bootcamp]) by Dr. Angela Yu.
-[Click to Play the Drum Kit 🎧](https://maryam-alam605.github.io/drum-kit/)
+[Click to Play the Drum Kit 🎧](https://maryam-alam605.github.io/Drum-kit/)
 ---
 
 ## 💻 Tech Stack
