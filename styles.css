@@ -1,0 +1,71 @@
+body {
+  background-color: #f4e7e1;
+}
+.heading img {
+  width: 200px;
+  vertical-align: middle;
+}
+.heading {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #d5451b;
+  font-size: 3rem;
+}
+.heading h1 {
+  margin: 0;
+}
+.drum-kit {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 70px;
+}
+button.drum {
+  width: 150px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 900;
+  font-size: 100px;
+  color: #521c0d;
+
+  border-radius: 20%;
+  border: 2px solid black;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+#tom-1 {
+  background-image: url(assets/tom1.png);
+  background-size: cover;
+  background-position: center;
+}
+#tom-2 {
+  background-image: url(assets/tom2.png);
+  background-size: cover;
+}
+#tom-3 {
+  background-image: url(assets/tom3.png);
+  background-size: cover;
+}
+#tom-4 {
+  background-image: url(assets/tom4.png);
+  background-size: cover;
+}
+#snare {
+  background-image: url(assets/snare.png);
+  background-size: cover;
+}
+#crash {
+  background-image: url(assets/crash.png);
+  background-size: cover;
+}
+#kick {
+  background-image: url(assets/kick.png);
+  background-size: cover;
+}
+.pressed {
+  transform: scale(0.9);
+  box-shadow: 0 3px rgba(0, 0, 0, 0.114);
+  opacity: 0.7;
+}
